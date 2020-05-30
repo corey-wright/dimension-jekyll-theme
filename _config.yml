@@ -1,7 +1,6 @@
 # Site settings
 title: Theresa's House of Beauty and Medi Spa
 email: youremailaddress@gmail.com
-description: "PHONE: (08) 9591 3938, MOBILE: 0417 941 189 \\ SORRY - LADIES ONLY"
 baseurl: "/dimension-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
