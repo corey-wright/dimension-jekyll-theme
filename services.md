@@ -1,30 +1,28 @@
 ---
 title: services
 ---
-<article id="services">
+<section>
 	<h2 class="major">Services</h2>
-		<section>
-				<nav>
-					<ul class="actions">
-						<li>
-							<a href="#hands" class="button">Hands & Feet</a>
-						</li>
-						<li>
-							<a href="#tanning" class="button">Tanning</a>
-						</li>
-						<li>
-							<a href="#waxing" class="button">Waxing</a>
-						</li>
-						<li>
-							<a href="#facials" class="button">Facials</a>
-						</li>
-						<li>
-							<a href="#tinting" class="button">Tinting</a>
-						</li>
-					</ul>
-				</nav>
-		</section>
-</article>
+		<nav>
+			<ul class="actions">
+				<li>
+					<a href="#hands" class="button">Hands & Feet</a>
+				</li>
+				<li>
+					<a href="#tanning" class="button">Tanning</a>
+				</li>
+				<li>
+					<a href="#waxing" class="button">Waxing</a>
+				</li>
+				<li>
+					<a href="#facials" class="button">Facials</a>
+				</li>
+				<li>
+					<a href="#tinting" class="button">Tinting</a>
+				</li>
+			</ul>
+		</nav>
+</section>
 <section>
 	<h3 class="major">Waxing</h3>
 	<div class="table-wrapper">
