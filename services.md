@@ -2,7 +2,7 @@
 title: services
 ---
 <section>
-	<nav>
+	<nav class="use-middle">
 		<ul>
 			<li>
 				<a href="#hands" class="button">Hands & Feet</a>
