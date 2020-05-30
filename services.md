@@ -4,27 +4,25 @@ title: services
 <article id="services">
 	<h2 class="major">Services</h2>
 		<section>
-			<div class="wrapper">
 				<nav>
 					<ul class="actions">
 						<li>
-							<a href="#hands" class="button small">Hands & Feet</a>
+							<a href="#hands" class="button">Hands & Feet</a>
 						</li>
 						<li>
-							<a href="#tanning" class="button small">Tanning</a>
+							<a href="#tanning" class="button">Tanning</a>
 						</li>
 						<li>
-							<a href="#waxing" class="button small">Waxing</a>
+							<a href="#waxing" class="button">Waxing</a>
 						</li>
 						<li>
-							<a href="#facials" class="button small">Facials</a>
+							<a href="#facials" class="button">Facials</a>
 						</li>
 						<li>
-							<a href="#tinting" class="button small">Tinting</a>
+							<a href="#tinting" class="button">Tinting</a>
 						</li>
 					</ul>
 				</nav>
-			</div>
 		</section>
 </article>
 <section>
